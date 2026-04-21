@@ -7,7 +7,7 @@ categories, high-value customers, payment method distribution, and seasonal
 performance patterns across a B2B client base of 25 customers.
 
 ## Dashboard Preview
-![Sales Dashboard](SalesDashboard.png)
+![Sales Dashboard](SalesDashboard.jpg)
 
 ## Tools Used
 - Power BI (Interactive Sales Dashboard)
